@@ -9,11 +9,11 @@
 <head>
 
 	<!-- Your Basic Site Informations -->
-	<title>Marvell Responsive Landing Page</title>
+	<title>online ecard maker </title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-    <meta name="description" content="Marvell is multi purpose landing page template that built with very cool responsive template with cool design, colorful template and a slew of features." />
+    <meta name="description" content="Online ecard maker  is multi purpose landing page template that built with very cool responsive template with cool design, colorful template and a slew of features." />
     <meta name="keywords" content="Landing Page, Multi Purpose, Portofolio, Business, Contact Form, HTML, CSS, jQuery, Clean, Responsive, Colorful" />
-    <meta name="author" content="Dots Theme" />
+    <meta name="author" content="ecard maker" />
     
     <!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -51,23 +51,26 @@
 <body>
 
  <div id="header">
+ <div style="float:left;margin-bottom:10px;margin-left:10px;">
+      
+      <img width= "100px" height = "80px" src="images/contents/orange/logo.png"  /> <!-- Logo -->
+     
+      </div>
   <div class="container">
    <div class="row-fluid">
     
     <div class="span1"></div>
     <nav class="nav-menu span10">
+       
      <ul>
-      <li><a href="#slider">Slider</a></li>
-      <li><a href="#features">Features</a></li>
-      <li><a href="#works">Projects</a></li>
-      <li class="logo">
-       <div class="logo-base">
-        <img src="images/contents/orange/logo.png" alt="Marvell" /> <!-- Logo -->
-       </div>
-      </li>
-      <li><a href="#teams">Teams</a></li>
-      <li><a href="#testimonials">Testimonials</a></li>
+   
+      <li><a href="#features">Browser</a></li>
+      <li><a href="#works">Features</a></li>
+      
+      <li><a href="#teams">our teams </a></li>
+      <li><a href="#testimonials">projects</a></li>
       <li><a href="#contact">Contact</a></li>
+      <li><a href="#login "> login </a></li>
      </ul>
     </nav>
     <div class="span1"></div>
@@ -82,9 +85,11 @@
     <ul class="slides">
      
      <li> <!-- One -->
-      <p><span>We are a team bursting</span></p>
-      <p><span>with creative passion</span></p>
-      <p><span>and experience designer.</span></p>
+     <p><span>  Create  your  design </span></p>
+      <p><span> Craft Heartfelt eCards for Your Loved Ones
+Start Designing an ecard </span></p>
+      
+      
       <p><a href="#" class="btn-link">Learn More About Us</a></p>
      </li>
      
@@ -131,54 +136,54 @@
     
       <li class="row-fluid">
        <div class="span4 item"> <!-- One -->
-        <img src="images/features/orange/application.png" alt="Feature" />
-        <h4>Cool Responsive Design</h4>
-        <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
+        <img src="images/features/orange/application.jpg" alt="Feature" />
+        <h4>Bussniess card </h4>
+        <p>Business cards are cards bearing business information about a company or individual.[1][2] They are shared during formal introductions as a convenience and a memory aid. A business card typically includes the giver's name, company or business affiliation (usually with a logo) and contact information such as street addresses, telephone number(s), fax number, e-mail addresses and website. Before the advent of electronic communication business cards might also include telex details. Now they may include social media addresses such as Facebook, LinkedIn and Twitter. Traditionally many cards were simple black text on white stock; today a professional business card will sometimes include one or more aspects of striking visual design. </p>
        </div>
        <div class="span4 item"> <!-- Two -->
         <img src="images/features/orange/security_lock.png" alt="Feature" />
-        <h4>Security & Protection</h4>
-        <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
+        <h4>birthday card </h4>
+        <p>A birthday card is a greeting card given or sent to a person to celebrate their birthday. Similar to a birthday cake, birthday card traditions vary by culture but the origin of birthday cards is unclear..</p>
        </div>
        <div class="span4 item"> <!-- Three -->
-        <img src="images/features/orange/load_download.png" alt="Feature" />
-        <h4>30 Day Free Trial</h4>
-        <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
+        <img src="images/features/orange/wedding card.png" alt="Feature" />
+        <h4>Wedding card </h4>
+        <p> A wedding invitation is a letter asking the recipient to attend a wedding. It is typically written in the formal, third-person language and mailed five to eight weeks before the wedding date. </p>
        </div>
       </li> <!-- End Row-Fluid -->
        
       <li class="row-fluid">
        <div class="span4 item"> <!-- Four -->
         <img src="images/features/orange/star_full.png" alt="Feature" />
-        <h4>World Class Technology</h4>
-        <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
+        <h4>BROCHUER</h4>
+        <p>A brochure is an informative paper document (often also used for advertising) that can be folded into a template, pamphlet or leaflet. A brochure can also be a set of related unfolded papers put into a pocket folder or packet.</p>
         </div>
         <div class="span4 item"> <!-- Five -->
-         <img src="images/features/orange/shoppingcart.png" alt="Feature" />
-         <h4>E-Commerce Features</h4>
-         <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
+         <img src="images/features/orange/web_ baneer.png" alt="Feature" />
+         <h4>web banner</h4>
+         <p>A web banner or banner ad is a form of advertising on the World Wide Web delivered by an ad server. This form of online advertising entails embedding an advertisement into a web page. </p>
         </div>
         <div class="span4 item"> <!-- Six -->
-         <img src="images/features/orange/document_add.png" alt="Feature" />
-         <h4>Free Website Scripts</h4>
+         <img src="images/features/orange/college-class-schedule-template-printable-class-schedule-printable.jpg" alt="Feature" />
+         <h4>class schedule</h4>
          <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
         </div>
        </li> <!-- End Row-Fluid -->
        
        <li class="row-fluid">
         <div class="span4 item"> <!-- Seven -->
-         <img src="images/features/orange/user_manage.png" alt="Feature" />
-         <h4>Unlimited Domain Hosting</h4>
+         <img src="images/features/orange/poster.png" alt="Feature" />
+         <h4>posters</h4>
          <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
         </div>
         <div class="span4 item"> <!-- Eight -->
-         <img src="images/features/orange/mail_receive.png" alt="Feature" />
-         <h4>Forwarding E-mail Accounts</h4>
+         <img src="images/features/orange/infograph.png" alt="Feature" />
+         <h4>infrographs</h4>
          <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
         </div>
         <div class="span4 item"> <!-- Nine -->
-         <img src="images/features/orange/document_search.png" alt="Feature" />
-         <h4>Well Docummented</h4>
+         <img src="images/features/orange/invitation.jpg" alt="Feature" />
+         <h4>invitation card</h4>
          <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet nulla vulputate venenatis orci, a laoreet libero vehicula ac duis tempor rhoncus quam, at blandit nulla egestas vitae. pellentesque pulvinar, risus dictum tempor luctus.</p>
         </div>
        </li> <!-- End Row-Fluid -->
@@ -191,15 +196,18 @@
   <div class="works" id="works">
    <div class="container">
     
-    <h2>Latest Works</h2>
+    <h2>Lastest work</h2>
     <p>Our designs not only look beautiful, they actually work.</p>
     
     <ul class="works-filter">
      <li><a href="#" class="current active" data-filter="*">All</a></li>
-     <li><a href="#" data-filter=".web-design">Web Design</a></li>
-     <li><a href="#" data-filter=".typography">Typography</a></li>
-     <li><a href="#" data-filter=".design-inspiration">Design Inspiration</a></li>
-     <li><a href="#" data-filter=".wordpress">Wordpress</a></li>
+     <li><a href="#" data-filter=".web-design">Bussniess card</a></li>
+     <li><a href="#" data-filter=".typography">Birthday card </a></li>
+     <li><a href="#" data-filter=".design-inspiration">wedding card</a></li>
+     <li><a href="#" data-filter=".wordpress">boucher</a></li>
+     <li><a href="#" data-filter="">invitation card</a></li>
+     <li><a href="#" data-filter="">infrographs</a></li>
+     <li><a href="#" data-filter="">posters</a></li>
     </ul> <!-- End Works-Filter -->
     
     <div class="works-items">
@@ -319,7 +327,7 @@
      <div class="span4 item"> <!-- One -->
       <figure>
        <img src="images/teams/1.jpg" alt="Avatar" />
-       <div class="name">Mugiwara Kiwolen</div>
+       <div class="name">Shaid Bin Md. Sifat</div>
       </figure>
       <p>
        Suspendisse vulputate, urna sit amet laoreet iaculis, magna urna porttitor justo, vel pretium sapien turpis nec turpis. Integer nec consectetur odio. Mauris quis neque velit. Aenean nec metus leo, non pellentesque eros. Ut et elit nibh, sit amet rutrum leo.
@@ -337,10 +345,10 @@
      <div class="span4 item"> <!-- Two -->
       <figure>
        <img src="images/teams/2.jpg" alt="Avatar" />
-       <div class="name">Rendy Jagerjack</div>
+       <div class="name">Dibyo chakma </div>
       </figure>
       <p>
-       Suspendisse vulputate, urna sit amet laoreet iaculis, magna urna porttitor justo, vel pretium sapien turpis nec turpis. Integer nec consectetur odio. Mauris quis neque velit. Aenean nec metus leo, non pellentesque eros. Ut et elit nibh, sit amet rutrum leo.
+      “Leadership is a matter of having people look at you and gain confidence, seeing how you react. If you’re in control, they’re in control.” </p>
        <span class="top-border"></span>
       </p>
       <ul class="social">
@@ -355,7 +363,7 @@
      <div class="span4 item"> <!-- Three -->
       <figure>
        <img src="images/teams/3.jpg" alt="Avatar" />
-       <div class="name">Skams Luph Owwey</div>
+       <div class="name">MD. kamrul ISLAM</div>
       </figure>
       <p>
        Suspendisse vulputate, urna sit amet laoreet iaculis, magna urna porttitor justo, vel pretium sapien turpis nec turpis. Integer nec consectetur odio. Mauris quis neque velit. Aenean nec metus leo, non pellentesque eros. Ut et elit nibh, sit amet rutrum leo.
@@ -388,18 +396,18 @@
      <ul class="slides">
     
       <li> <!-- One -->
-       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum semper nulla vitae diam lobortis interdum varius arcu tincidunt. Quisque sed nisi vel lorem blandit pharetra. Vivamus mollis blandit elit, nec lobortis tellus laoreet id.</p>
-       <div class="name">Mugiwara Kiwolen - CEO of Dots Theme</div>
+       <p>Online ecard maker is a one of the most famous site for making ecard.We provides unqiue design,tempaltes for card that create better view to the the audiuence and maker their life easier to crate those card easer way. .</p>
+       <div class="name">SHAID BIN MD. SIFAT - CEO of ONLINE ECARD MAKER</div>
       </li>
     
       <li> <!-- Two -->
-       <p>Quisque placerat erat ac nunc consequat faucibus. Aenean tortor purus, faucibus a varius nec, facilisis vel enim. Maecenas quis felis ante. Aenean vulputate, risus a porta porta, sapien lectus euismod nisi, ut dapibus felis ante quis diam.</p>
-       <div class="name">Rendy Jagerjack - Marketing of Dots Theme</div>
+       <p>Online ecard maker is a one of the most famous site for making ecard.We provides unqiue design,tempaltes for card that create better view to the the audiuence and maker their life easier to crate those card easer way. .</p>
+       <div class="name">Dibyo chakma- Marketing of online ecard maker</div>
       </li>
     
       <li> <!-- Three -->
-       <p>Aenean dictum pharetra nibh, sodales luctus felis aliquet at. Nulla vulputate venenatis orci, a laoreet libero vehicula ac. Duis tempor rhoncus quam, at blandit nulla egestas vitae et netus et malesuada fames ac turpis egestas eget consectetur erat.</p>
-       <div class="name">Skams Luph Owwey - Developer of Dots Theme</div>
+       <p>Online ecard maker is a one of the most famous site for making ecard.We provides unqiue design,tempaltes for card that create better view to the the audiuence and maker their life easier to crate those card easer way. ..</p>
+       <div class="name">Md. kamrul hasan - MD. Of online ecard maker </div>
       </li>
     
      </ul>
@@ -411,7 +419,7 @@
    <div class="container">
     
     <h2>Keep In Touch</h2>
-    <p>If you have an interesting project for us, do get in touch  with us.</p>
+    <p>If you want to get many interesting design  from  us, do get in touch  with us.</p>
     
     <form id="contact-form" method="post" action="#">
     
@@ -437,7 +445,7 @@
    <div class="container">
     <div class="flexslider loading">
      <ul class="slides">
-      <li><a href="#">@blairgeddes</a> Hey Blair. You may want to open a ticket with Support. Could be an issue we need to look into - <a href="#">http://t.co/Otw3qFkqv3</a>&nbsp;&nbsp;<span class="date"><a href="#">"3 hours ago"</a></span></li>
+      <li><a href="#">online ecard maker  a beautiful web app which create online ecard for parties,birthdays,bouchers,logs.......<a href="#">http://t.co/Otw3qFkqv3</a>&nbsp;&nbsp;<span class="date"><a href="#">"3 hours ago"</a></span></li>
      </ul>
     </div> <!-- End Flexslider -->
    </div> <!-- End Container -->
@@ -448,18 +456,9 @@
  <div id="footer">
   <div class="container">
    
-   <div class="copyright-text pull-left">Copyright &copy; 2013 by Dots Theme. All rights reserved.</div> <!-- Copyright Text -->
+   <div class="copyright-text pull-left">Powered by online ecard maker </div> <!-- Copyright Text -->
    
-   <ul class="social pull-right">
-    <li><a href="#" title="Stumbleupon"><img src="images/social/somacro/stumbleupon.png" alt="Stumbleupon" /></a></li>
-    <li><a href="#" title="Twitter"><img src="images/social/somacro/twitter.png" alt="Twitter" /></a></li>
-    <li><a href="#" title="Deviantart"><img src="images/social/somacro/deviantart.png" alt="Deviantart" /></a></li>
-    <li><a href="#" title="Facebook"><img src="images/social/somacro/facebook500.png" alt="Facebook" /></a></li>
-    <li><a href="#" title="Flickr"><img src="images/social/somacro/flickr.png" alt="Flickr" /></a></li>
-    <li><a href="#" title="Google Plus"><img src="images/social/somacro/googleplus.png" alt="Google Plus" /></a></li>
-    <li><a href="#" title="LinkedIn"><img src="images/social/somacro/linkedin.png" alt="LinkedIn" /></a></li>
-    <li><a href="#" title="Skype"><img src="images/social/somacro/skype.png" alt="Skype" /></a></li>
-   </ul> <!-- End Social Media -->
+  
    
   </div> <!-- End Container -->
  </div> <!-- End Footer -->
