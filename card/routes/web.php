@@ -12,9 +12,21 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('card_home');
+})->name('home');
+Route::get('/business',function(){
+    return view('cards.business');
+})->name('business');
+Route::get('/birthday',function(){
+    return view('cards.birthday');
+})->name('birthday');
+Route::get('/wedding',function(){
+    return view('cards.wedding');
+})->name('wedding');
+Route::get('/invite',function(){
+    return view('cards.invite');
+})->name('invite');
 
 Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
+/* 
+Route::get('/home', 'HomeController@index')->name('home'); */

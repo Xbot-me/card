@@ -1,13 +1,18 @@
-@extends('layouts.app')
+@extends('welcome')
 
-@section('content')
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Register') }}</div>
+@section('content_home')
+<style>
+.row{
+    margin: 0 !important;
+}
+</style>
+<div class="global-container">
+        <div class="card login-form">
+        <div class="card-body">
+           
+                <h1 class="card-header">{{ __('Register') }}</h1>
 
-                <div class="card-body">
+                <div class="card-text">
                     <form method="POST" action="{{ route('register') }}">
                         @csrf
 
@@ -70,7 +75,7 @@
                         </div>
                     </form>
                 </div>
-            </div>
+            
         </div>
     </div>
 </div>
